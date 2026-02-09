@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "spotifytunnel",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e998a219-10a4-4bee-ba46-6f3a41068500",
+			"database_name": "spotify-tunnel-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
